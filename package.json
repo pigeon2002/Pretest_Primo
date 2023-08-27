@@ -1,0 +1,25 @@
+{
+  "name": "pretest_primo",
+  "version": "1.0.0",
+  "description": "This repo is used for Pre-test Primo in Problem10 that need to create unit test.",
+  "main": "index.js",
+  "scripts": {
+    "test" : "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigeon2002/Pretest_Primo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pigeon2002/Pretest_Primo/issues"
+  },
+  "homepage": "https://github.com/pigeon2002/Pretest_Primo#readme",
+  "dependencies": {
+    "@types/jest": "^29.5.4",
+    "jest": "^29.6.4",
+    "ts-jest": "^29.1.1"
+  }
+}
